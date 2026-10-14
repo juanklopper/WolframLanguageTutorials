@@ -1,0 +1,101 @@
+patient_id,visit_date,age_months,age_group,sex,weight_kg,height_cm,bmi,head_circumference_cm,temperature_c,heart_rate_bpm,respiratory_rate_bpm,spo2_pct,systolic_bp_mmhg,diastolic_bp_mmhg,triage_category,primary_diagnosis,length_of_stay_hours,discharge_status,readmitted_within_7_days
+PED001,01-13,164,adolescent,Male,57.5,155.5,23.8,54.3,37.9,77,13,97,117,79,4 – Semi-urgent,Asthma exacerbation,3.5,Admitted to ward,No
+PED002,08-18,108,school,Male,19.7,123.4,12.9,53.8,37.7,87,17,100,123,63,4 – Semi-urgent,Acute gastroenteritis,3.5,Discharged home,No
+PED003,10-02,187,adolescent,Female,77.2,179.0,24.1,54.7,38.0,65,12,97,123,86,5 – Non-urgent,Urinary tract infection,2.5,Admitted to ward,No
+PED004,08-21,98,school,Female,27.0,126.4,16.9,51.5,38.0,87,27,96,94,71,3 – Urgent,Acute gastroenteritis,7.8,Transferred,No
+PED005,12-17,143,school,Male,25.8,153.3,11.0,53.7,38.2,93,17,100,112,53,3 – Urgent,Upper respiratory tract infection,3.7,Admitted to ICU,No
+PED006,03-13,37,preschool,Female,18.1,118.3,12.9,49.9,38.8,113,22,99,123,59,2 – Emergent,Acute gastroenteritis,11.9,Discharged home,No
+PED007,07-17,109,school,Male,12.4,162.1,4.7,49.4,37.2,91,20,97,91,59,2 – Emergent,Asthma exacerbation,11.1,Discharged home,No
+PED008,09-14,185,adolescent,Female,59.1,151.1,25.9,55.1,38.4,84,14,98,127,86,5 – Non-urgent,Traumatic injury,3.7,Discharged home,No
+PED009,06-07,29,toddler,Female,13.1,93.2,15.1,47.4,37.5,112,19,100,89,65,3 – Urgent,Traumatic injury,7.1,Discharged home,No
+PED010,06-09,55,preschool,Male,13.8,115.1,10.4,48.2,39.0,98,25,98,97,53,4 – Semi-urgent,Acute gastroenteritis,2.5,Discharged home,No
+PED011,02-06,9,infant,Female,5.9,67.4,13.0,41.5,37.7,125,26,96,77,48,4 – Semi-urgent,Acute gastroenteritis,3.2,Discharged home,No
+PED012,12-11,187,adolescent,Male,48.1,151.2,21.0,55.5,38.1,79,16,98,130,78,5 – Non-urgent,Pneumonia,2.4,Discharged home,No
+PED013,01-26,141,school,Male,26.2,122.8,17.4,52.4,37.6,90,18,96,110,76,1 – Resuscitation,Acute gastroenteritis,6.3,Discharged home,No
+PED014,05-27,201,adolescent,Female,31.3,174.7,10.3,55.3,37.6,77,15,96,143,64,2 – Emergent,Urinary tract infection,9.1,Discharged home,No
+PED015,01-30,136,school,Male,35.2,133.8,19.7,52.5,38.7,87,18,100,117,65,3 – Urgent,Asthma exacerbation,7.7,Discharged home,No
+PED016,12-09,67,preschool,Male,17.5,102.2,16.8,48.6,38.4,102,27,98,93,38,2 – Emergent,Allergic reaction,16.5,Discharged home,No
+PED017,05-06,90,school,Male,28.8,140.1,14.7,52.8,36.4,67,14,97,103,68,5 – Non-urgent,Acute otitis media,1.4,Discharged home,No
+PED018,05-20,28,toddler,Male,12.7,92.7,14.8,46.7,38.7,124,23,97,107,67,2 – Emergent,Bronchiolitis,14.1,Discharged home,No
+PED019,08-15,68,preschool,Male,14.5,105.3,13.1,50.5,37.6,121,18,94,92,59,3 – Urgent,Acute gastroenteritis,4.4,Admitted to ICU,No
+PED020,04-18,11,infant,Female,6.3,57.2,19.3,42.4,38.5,159,27,97,62,55,3 – Urgent,Urinary tract infection,6.2,Discharged home,No
+PED021,12-09,86,school,Female,41.6,118.5,29.6,51.8,39.2,106,24,98,99,69,4 – Semi-urgent,Upper respiratory tract infection,1.8,Discharged home,Yes
+PED022,06-18,50,preschool,Female,17.8,111.0,14.4,50.2,36.8,90,24,98,90,76,4 – Semi-urgent,Upper respiratory tract infection,3.4,Transferred,Yes
+PED023,06-26,153,adolescent,Female,56.6,154.4,23.7,53.1,36.9,69,20,97,134,95,4 – Semi-urgent,Pneumonia,3.0,Admitted to ward,No
+PED024,02-05,94,school,Female,49.1,126.5,30.7,50.9,36.7,105,25,95,103,59,3 – Urgent,Asthma exacerbation,7.7,Admitted to ward,No
+PED025,11-12,192,adolescent,Male,46.9,158.7,18.6,54.4,36.9,82,22,96,113,61,4 – Semi-urgent,Pneumonia,3.6,Left without being seen,No
+PED026,05-26,169,adolescent,Male,41.1,161.6,15.7,53.1,39.0,78,13,98,125,81,4 – Semi-urgent,Pneumonia,3.1,Discharged home,No
+PED027,12-23,162,adolescent,Male,49.0,169.7,17.0,54.9,38.7,92,13,100,107,77,3 – Urgent,Acute otitis media,8.5,Discharged home,No
+PED028,03-10,32,toddler,Female,14.2,78.1,23.3,50.0,37.5,139,25,95,82,45,5 – Non-urgent,Pneumonia,2.0,Admitted to ward,No
+PED029,11-23,67,preschool,Male,17.0,121.7,11.5,49.1,37.7,90,26,98,103,64,3 – Urgent,Acute gastroenteritis,4.5,Discharged home,No
+PED030,06-19,107,school,Female,24.0,131.7,13.8,52.3,38.5,101,18,96,87,66,3 – Urgent,Acute gastroenteritis,3.1,Admitted to ward,No
+PED031,10-03,214,adolescent,Female,57.8,150.4,25.6,53.4,37.2,80,20,99,120,70,3 – Urgent,Acute gastroenteritis,3.2,Discharged home,No
+PED032,10-31,7,infant,Female,7.1,67.3,15.7,43.3,37.2,125,38,97,84,49,4 – Semi-urgent,Febrile seizure,4.8,Admitted to ward,No
+PED033,01-10,21,toddler,Female,13.0,85.7,17.7,49.0,37.4,142,33,98,91,58,3 – Urgent,Asthma exacerbation,8.8,Discharged home,No
+PED034,12-25,56,preschool,Female,17.9,115.7,13.4,47.6,36.2,102,17,98,102,48,5 – Non-urgent,Asthma exacerbation,1.1,Discharged home,No
+PED035,10-31,51,preschool,Male,16.2,97.5,17.0,51.7,38.5,113,20,100,112,63,3 – Urgent,Febrile seizure,3.2,Discharged home,No
+PED036,02-24,108,school,Female,25.1,139.6,12.9,52.9,37.0,94,22,95,102,52,3 – Urgent,Urinary tract infection,2.0,Admitted to ward,No
+PED037,02-14,83,school,Male,30.4,147.9,13.9,52.0,36.4,86,18,96,104,58,3 – Urgent,Upper respiratory tract infection,5.1,Discharged home,No
+PED038,09-22,143,school,Male,35.2,133.4,19.8,51.8,36.6,91,15,96,96,66,4 – Semi-urgent,Upper respiratory tract infection,2.5,Discharged home,No
+PED039,08-06,122,school,Female,42.1,134.7,23.2,51.3,38.4,87,22,97,96,64,3 – Urgent,Acute otitis media,0.5,Admitted to ward,No
+PED040,02-21,151,adolescent,Female,63.0,155.7,26.0,53.5,38.2,77,15,98,119,68,4 – Semi-urgent,Asthma exacerbation,5.8,Discharged home,Yes
+PED041,09-03,73,school,Female,27.2,137.8,14.3,54.3,38.3,72,21,97,106,63,4 – Semi-urgent,Acute gastroenteritis,2.7,Discharged home,No
+PED042,11-07,31,toddler,Female,10.1,82.5,14.8,48.2,36.7,123,26,96,86,56,2 – Emergent,Allergic reaction,11.3,Admitted to ward,No
+PED043,03-22,68,preschool,Male,18.3,118.1,13.1,50.7,38.4,101,20,99,97,59,3 – Urgent,Acute gastroenteritis,8.9,Discharged home,No
+PED044,08-06,151,adolescent,Male,64.4,167.7,22.9,54.5,38.2,80,18,98,105,83,3 – Urgent,Febrile seizure,1.0,Discharged home,No
+PED045,08-13,70,preschool,Female,18.9,109.1,15.9,49.0,37.9,105,26,100,92,47,4 – Semi-urgent,Allergic reaction,1.7,Discharged home,Yes
+PED046,08-29,194,adolescent,Male,45.1,161.7,17.2,53.4,40.5,63,19,99,116,67,3 – Urgent,Acute gastroenteritis,6.0,Discharged home,No
+PED047,10-09,170,adolescent,Female,63.0,164.0,23.4,54.0,38.0,81,11,98,118,81,4 – Semi-urgent,Acute gastroenteritis,2.0,Discharged home,No
+PED048,04-15,114,school,Male,31.5,141.3,15.8,51.5,39.4,88,20,95,92,63,3 – Urgent,Acute gastroenteritis,3.3,Discharged home,No
+PED049,03-02,30,toddler,Female,12.1,84.8,16.8,49.1,37.3,112,23,95,91,54,4 – Semi-urgent,Upper respiratory tract infection,3.2,Admitted to ward,Yes
+PED050,08-01,18,toddler,Female,10.6,98.4,10.9,48.0,37.7,112,19,95,84,63,3 – Urgent,Pneumonia,3.4,Admitted to ward,No
+PED051,12-24,83,school,Male,32.6,146.8,15.1,52.6,36.9,85,23,99,99,79,3 – Urgent,Acute otitis media,4.7,Transferred,No
+PED052,02-21,152,adolescent,Female,67.1,155.3,27.8,52.9,37.4,76,14,97,113,51,4 – Semi-urgent,Upper respiratory tract infection,3.6,Discharged home,No
+PED053,06-12,173,adolescent,Female,40.5,148.1,18.5,52.8,37.7,73,16,97,110,75,4 – Semi-urgent,Allergic reaction,3.5,Admitted to ward,Yes
+PED054,01-15,43,preschool,Female,24.0,112.1,19.1,49.7,38.4,113,28,95,90,63,4 – Semi-urgent,Bronchiolitis,3.4,Discharged home,No
+PED055,08-25,37,preschool,Male,15.5,101.2,15.1,48.7,35.9,97,25,97,95,82,5 – Non-urgent,Upper respiratory tract infection,1.2,Admitted to ward,No
+PED056,07-16,78,school,Male,34.3,130.5,20.1,51.3,38.2,86,24,100,106,64,4 – Semi-urgent,Bronchiolitis,3.1,Transferred,No
+PED057,05-27,191,adolescent,Female,59.4,155.9,24.4,54.2,37.0,81,19,98,101,72,4 – Semi-urgent,Acute gastroenteritis,2.4,Discharged home,No
+PED058,03-09,9,infant,Female,8.9,71.6,17.4,44.0,37.0,143,44,100,78,66,4 – Semi-urgent,Upper respiratory tract infection,1.8,Discharged home,No
+PED059,02-28,192,adolescent,Female,53.3,163.8,19.9,54.0,37.0,72,13,95,130,70,3 – Urgent,Febrile seizure,4.7,Discharged home,No
+PED060,10-27,192,adolescent,Female,45.4,172.7,15.2,53.0,38.6,66,18,99,115,64,3 – Urgent,Asthma exacerbation,3.2,Admitted to ward,No
+PED061,01-24,30,toddler,Male,15.0,86.0,20.3,47.3,37.6,120,26,95,93,57,4 – Semi-urgent,Febrile seizure,0.5,Discharged home,No
+PED062,11-12,26,toddler,Female,7.8,97.4,8.2,49.4,37.8,87,32,98,87,55,3 – Urgent,Allergic reaction,2.7,Discharged home,No
+PED063,02-16,32,toddler,Female,11.1,79.4,17.6,47.7,37.5,117,24,99,97,69,3 – Urgent,Upper respiratory tract infection,6.4,Admitted to ward,No
+PED064,05-22,38,preschool,Male,19.2,104.5,17.6,50.6,38.1,112,29,98,96,63,3 – Urgent,Upper respiratory tract infection,3.6,Discharged home,No
+PED065,02-02,135,school,Male,18.3,138.1,9.6,51.5,37.6,66,20,100,108,72,5 – Non-urgent,Pneumonia,1.3,Discharged home,No
+PED066,12-18,103,school,Female,41.8,146.9,19.4,50.0,38.3,88,22,99,113,54,4 – Semi-urgent,Febrile seizure,2.0,Discharged home,No
+PED067,12-26,111,school,Male,40.8,146.5,19.0,52.9,36.8,97,18,99,98,69,3 – Urgent,Acute otitis media,3.2,Discharged home,No
+PED068,02-04,40,preschool,Female,19.2,109.8,15.9,48.2,38.2,101,26,100,103,52,5 – Non-urgent,Febrile seizure,1.5,Left without being seen,No
+PED069,05-28,185,adolescent,Male,49.0,157.5,19.8,53.4,37.3,74,15,100,130,64,4 – Semi-urgent,Asthma exacerbation,4.5,Admitted to ward,No
+PED070,11-08,210,adolescent,Male,78.4,154.9,32.7,53.9,38.2,76,15,97,119,82,3 – Urgent,Febrile seizure,3.1,Discharged home,Yes
+PED071,07-12,192,adolescent,Male,48.4,167.4,17.3,52.9,38.6,80,13,98,120,81,3 – Urgent,Acute otitis media,7.3,Admitted to ward,No
+PED072,05-20,114,school,Female,34.1,149.0,15.4,51.7,38.0,84,16,96,103,69,3 – Urgent,Acute gastroenteritis,10.7,Left without being seen,No
+PED073,05-29,196,adolescent,Female,57.3,164.1,21.3,54.0,37.0,68,20,94,118,75,2 – Emergent,Bronchiolitis,10.3,Discharged home,No
+PED074,10-21,81,school,Female,22.6,144.7,10.8,51.7,38.5,96,20,99,101,62,2 – Emergent,Febrile seizure,7.8,Discharged home,No
+PED075,06-08,21,toddler,Female,13.0,83.0,18.9,48.1,37.2,105,23,99,103,48,3 – Urgent,Asthma exacerbation,9.1,Discharged home,No
+PED076,12-02,45,preschool,Male,25.7,117.0,18.8,49.1,36.9,93,22,96,81,49,5 – Non-urgent,Upper respiratory tract infection,0.5,Discharged home,No
+PED077,11-20,121,school,Female,29.9,144.1,14.4,53.1,38.0,86,23,100,110,79,4 – Semi-urgent,Bronchiolitis,4.1,Discharged home,No
+PED078,08-19,142,school,Male,40.8,126.5,25.5,52.5,38.7,65,20,94,109,77,4 – Semi-urgent,Acute gastroenteritis,0.5,Discharged home,No
+PED079,07-06,113,school,Male,27.4,142.0,13.6,51.2,38.0,76,17,97,101,75,4 – Semi-urgent,Upper respiratory tract infection,4.0,Admitted to ward,No
+PED080,02-11,39,preschool,Female,16.3,105.8,14.6,48.2,39.5,102,20,94,85,60,4 – Semi-urgent,Urinary tract infection,4.1,Admitted to ward,No
+PED081,11-27,190,adolescent,Male,51.1,152.5,22.0,54.9,37.7,86,16,98,112,79,4 – Semi-urgent,Upper respiratory tract infection,3.0,Discharged home,No
+PED082,12-05,190,adolescent,Male,47.4,177.6,15.0,54.7,38.2,87,22,98,100,79,4 – Semi-urgent,Febrile seizure,4.1,Discharged home,No
+PED083,04-30,73,school,Female,25.3,132.8,14.3,52.4,36.7,95,18,100,96,59,4 – Semi-urgent,Febrile seizure,3.2,Transferred,No
+PED084,05-09,206,adolescent,Male,71.0,166.7,25.5,52.4,39.1,75,13,98,121,79,4 – Semi-urgent,Pneumonia,4.1,Discharged home,No
+PED085,06-28,210,adolescent,Female,69.3,158.6,27.6,53.2,38.1,75,18,98,127,86,3 – Urgent,Upper respiratory tract infection,6.8,Discharged home,No
+PED086,12-28,121,school,Male,21.1,138.2,11.0,52.2,37.5,91,22,100,99,53,3 – Urgent,Upper respiratory tract infection,6.6,Discharged home,No
+PED087,02-02,160,adolescent,Female,78.0,176.9,24.9,53.9,37.5,71,17,99,126,69,4 – Semi-urgent,Febrile seizure,2.4,Discharged home,No
+PED088,07-19,18,toddler,Male,13.5,86.5,18.0,46.9,38.2,115,23,99,92,56,4 – Semi-urgent,Asthma exacerbation,2.5,Discharged home,No
+PED089,12-17,87,school,Male,20.0,139.1,10.3,50.8,36.4,106,22,96,106,70,5 – Non-urgent,Acute gastroenteritis,2.1,Discharged home,No
+PED090,05-10,140,school,Female,43.2,138.9,22.4,51.6,39.3,104,21,97,120,58,5 – Non-urgent,Febrile seizure,2.3,Discharged home,No
+PED091,07-08,178,adolescent,Female,70.9,157.5,28.6,54.5,36.2,89,19,98,107,72,3 – Urgent,Acute otitis media,5.7,Discharged home,No
+PED092,06-29,177,adolescent,Female,39.7,168.3,14.0,55.2,36.9,66,19,98,115,70,4 – Semi-urgent,Pneumonia,1.9,Discharged home,Yes
+PED093,01-18,156,adolescent,Female,64.2,168.2,22.7,53.4,36.9,80,17,99,127,67,3 – Urgent,Acute gastroenteritis,6.6,Discharged home,No
+PED094,02-28,72,school,Male,37.1,136.2,20.0,49.8,37.4,103,23,97,98,56,3 – Urgent,Allergic reaction,3.0,Discharged home,No
+PED095,02-14,45,preschool,Female,21.4,88.5,27.3,51.8,37.5,102,19,97,103,68,3 – Urgent,Acute otitis media,7.6,Discharged home,No
+PED096,05-02,52,preschool,Male,18.2,106.2,16.1,48.9,37.3,109,19,97,94,52,4 – Semi-urgent,Acute otitis media,7.4,Admitted to ward,No
+PED097,06-12,19,toddler,Male,11.3,82.0,16.8,47.4,36.9,130,22,97,86,65,2 – Emergent,Traumatic injury,10.9,Discharged home,No
+PED098,06-15,43,preschool,Male,20.3,105.7,18.2,51.4,37.2,104,26,99,115,60,2 – Emergent,Asthma exacerbation,18.6,Discharged home,No
+PED099,03-29,149,adolescent,Male,47.6,149.6,21.3,52.5,36.5,63,15,98,119,67,4 – Semi-urgent,Acute otitis media,1.8,Discharged home,No
+PED100,11-25,128,school,Female,40.8,131.3,23.7,52.5,36.3,89,21,99,108,60,3 – Urgent,Asthma exacerbation,5.1,Admitted to ward,No
